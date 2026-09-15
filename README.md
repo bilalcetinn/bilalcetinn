@@ -4,17 +4,19 @@ I'm a Computer Engineering student and software developer focused on mobile and 
 
 My main focus is **Flutter development**. I enjoy building real-world applications, integrating APIs, designing maintainable architectures, and turning ideas into working products.
 
+---
+
 ## 🚀 Currently Working On
 
 ### 🎮 HarfArena
 
-A Flutter-based word game currently under active development.
+**Active Personal Project**
 
-The project focuses on word generation, game mechanics, multiplayer features, and a modern mobile user experience.
+HarfArena is a Flutter-based mobile word game that I'm actively developing.
 
-**Tech Stack:** Flutter • Dart • Firebase
+The project focuses on word-based gameplay, game mechanics, multiplayer features, Firebase integration, and a modern mobile user experience.
 
-> The source code will be available on my GitHub profile.
+**Technologies:** Flutter • Dart • Firebase
 
 ---
 
@@ -56,7 +58,7 @@ The project focuses on word generation, game mechanics, multiplayer features, an
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 ### 🎮 HarfArena
 
@@ -64,7 +66,7 @@ The project focuses on word generation, game mechanics, multiplayer features, an
 
 A mobile word game developed with Flutter.
 
-The project is currently under active development and includes game mechanics, word-based gameplay, multiplayer functionality, and Firebase-powered services.
+The project includes word-based game mechanics, multiplayer functionality, Firebase-powered services, and a modern mobile interface.
 
 **Technologies:** Flutter • Dart • Firebase
 
@@ -93,7 +95,7 @@ The application includes audio processing, user authentication, processing histo
 - Authentication and session management
 - Git version control
 - Frontend development
-- AI-powered application development
+- AI-powered applications
 
 ---
 
@@ -101,9 +103,9 @@ The application includes audio processing, user authentication, processing histo
 
 - Building production-ready Flutter applications
 - Improving mobile application architecture
-- Developing and publishing my own applications
-- Contributing to real-world software projects
-- Expanding my experience in backend and cloud technologies
+- Publishing my own mobile applications
+- Working on real-world software projects
+- Expanding my backend and cloud development experience
 
 ---
 
@@ -115,7 +117,7 @@ I'm currently open to:
 - Part-time software development roles
 - Junior developer opportunities
 - Internship opportunities
-- Collaboration on interesting software projects
+- Software development collaborations
 
 ---
 
